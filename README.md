@@ -1,9 +1,14 @@
 # SquashProject
 
+
 Video from testing of the system:  https://youtu.be/AyP5nZPOmzo
+
 ----------------------------------------------------------------
 
+
+
 #Summary: 
+----------------------------------------------------------------
 
 Squash training application is a system created to help squash players with training exercises.  
 The system projects a visible target on the back wall of the squash court and responds whenever the squash ball hits the projected target. 
