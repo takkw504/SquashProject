@@ -2,6 +2,7 @@
 
 
 Video from testing of the system:  https://youtu.be/AyP5nZPOmzo
+Video on when the program is running on the computer: https://youtu.be/BDkzxrv94g4
 
 ----------------------------------------------------------------
 
@@ -17,7 +18,7 @@ Squash training application consists of ball tracking and graphical software, we
 The graphical interface and the tracking software is written in C++ using SFML and OpenCV libraries. 
 The sound sensor module consist of a Atmega328p, sparkfun sound sensor sen-12642 and a bluesmirf silver wrl-12577 the software is written in low level C.
 
--Version 1.0: Using two computers for the different tasks (ball tracking and graphical interface), communicating via tcp-ip. Sound sensor module using serial interface through usb. ìDifficult to set up and useî
+-Version 1.0: Using two computers for the different tasks (ball tracking and graphical interface), communicating via tcp-ip. Sound sensor module using serial interface through usb. ‚ÄúDifficult to set up and use‚Äù
 
 -Version 1.1 Changing detection method from colour detection to absolute difference.   
 
@@ -25,7 +26,7 @@ The sound sensor module consist of a Atmega328p, sparkfun sound sensor sen-12642
 
 -Version 1.3 Removing auto ROI  and replaced with advanced mousehandler function. 
 
--Version 1.4 Implemented threading to remove one computer. ìThe system now runs on one computerî.             
+-Version 1.4 Implemented threading to remove one computer. ‚ÄúThe system now runs on one computer‚Äù.             
  
 -Version 1.5 Removed usb connection from sound sensor module, replaced with  bluetooth connection.  
 
